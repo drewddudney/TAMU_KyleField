@@ -13,6 +13,7 @@ This case study analyzes Texas A&M's football performance at home versus away, f
    - Kyle Field shows a clear home-field advantage, with a significantly higher win percentage at home.
    - Despite playing tougher opponents at home (with a higher percentage of ranked teams), A&M's performance at home stands out in comparison to their away games.
    - Time of possession is fairly consistent at home and away, suggesting it’s not the main factor in their home-field advantage.
+![Wins Bar Chart](Wins2.png)
 
 2. **Offensive Performance Box Chart**:
    - A&M performs better offensively at home, particularly in rushing yards.

@@ -7,6 +7,21 @@ This case study analyzes Texas A&M's football performance at home versus away, f
 
 ---
 
+## Installation
+
+To run the project on your local machine, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/KyleField_HomeField.git
+    ```
+
+2. Install the required dependencies. You can do so by creating a virtual environment and installing the packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+---
+
 ## Visualizations and Key Insights:
 
 1. **Home vs. Away Performance Bar Chart**:

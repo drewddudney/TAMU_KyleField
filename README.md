@@ -1,6 +1,6 @@
 # Texas A&M Football Performance Analysis - *KyleField_HomeField*
 ### Kyle Field Renovations
-![Kyle Field Torn Down](KyleFieldTornDown.jpg)         ![Kyle Field Renovation](KyleField.jpg)
+![Kyle Field Torn Down](KyleFieldTornDown.jpg)
 ## Case Study: Post-2014 Kyle Field Renovations - A&M's Home-Field Advantage
 
 This case study analyzes Texas A&M's football performance at home versus away, focusing specifically on the seasons following the 2014 renovations of Kyle Field. The goal of this study is to evaluate if the new Kyle Field has provided Texas A&M with a true home-field advantage, comparing key performance metrics such as win percentage, offensive performance, and opponent strength. The findings are also compared to the broader SEC to determine if A&M's home-field advantage is among the best in the country.
@@ -40,3 +40,4 @@ This case study analyzes Texas A&M's football performance at home versus away, f
 
 ## Conclusion:
 While Texas A&M's home-field advantage, when compared to the SEC average, appears relatively average, the stark contrast between their home and away performance suggests a notable home-field edge. The significant difference in their performance at Kyle Field versus on the road indicates that A&M does, in fact, enjoy a solid home-field advantage. However, the overall picture suggests that the team's struggles on the road and their underperformance post-Johnny Football highlight a broader issue: A&M, despite its home advantage, still falls short as a top-tier football program in recent years.
+![Kyle Field Renovation](KyleField.jpg)

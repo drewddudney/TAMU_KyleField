@@ -13,10 +13,10 @@ To run the project on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/KyleField_HomeField.git
+    git clone https://github.com/drewddudney/KyleField_HomeField.git
     ```
 
-2. Install the required dependencies. You can do so by creating a virtual environment and installing the packages:
+2. Install the required dependencies. You can do so by installing the packages:
     ```bash
     pip install -r requirements.txt
     ```

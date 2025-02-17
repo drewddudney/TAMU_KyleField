@@ -1,9 +1,9 @@
 # Texas A&M Football Performance Analysis - *KyleField_HomeField*
 ### Kyle Field Renovations
 ![Kyle Field Torn Down](Images/KyleFieldTornDown.jpg)
-## Project Overview: Post-2014 Kyle Field Renovations - Texas A&M's Home-Field Advantage
+## Project Overview: Post-2015 Kyle Field Renovations - Texas A&M's Home-Field Advantage
 
-This project analyzes Texas A&M’s football performance at home vs. away since the 2015 Kyle Field renovation. The goal is to determine whether Kyle Field provides a significant home-field advantage by comparing key performance metrics to the rest of the SEC.
+This project analyzes Texas A&M’s football performance at home vs. away after the 2015 Kyle Field renovation. The goal is to determine whether Kyle Field provides a significant home-field advantage by comparing key performance metrics to the rest of the SEC.
 
 ---
 

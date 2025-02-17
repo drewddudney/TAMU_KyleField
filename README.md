@@ -31,7 +31,7 @@ This case study analyzes Texas A&M's football performance at home versus away, f
    - A&M’s home wins correlate more strongly with total yards and time of possession compared to SEC teams, emphasizing the importance of ball control at Kyle Field.
    - On the road, turnovers (interceptions and fumbles) have a significantly more negative impact on A&M’s performance than at home.
    - Interestingly, A&M’s penalty yards on the road correlate positively with road wins, an unusual trend compared to the SEC.
-
+![HeatMap](HeatMap.png)
 6. **Radar Chart**:
    - A&M shows stronger performance at home in terms of points scored and overall offensive production.
    - However, the team allows more points at home than the average SEC team.

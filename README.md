@@ -1,28 +1,30 @@
 # Texas A&M Football Performance Analysis - *KyleField_HomeField*
 ### Kyle Field Renovations
 ![Kyle Field Torn Down](KyleFieldTornDown.jpg)
-## Case Study: Post-2014 Kyle Field Renovations - Texas A&M's Home-Field Advantage
+## Project Overview: Post-2014 Kyle Field Renovations - Texas A&M's Home-Field Advantage
 
-This case study analyzes Texas A&M's football performance at home versus away, focusing specifically on the seasons following the 2014 renovations of Kyle Field. The goal of this study is to evaluate if the new Kyle Field has provided Texas A&M with a true home-field advantage, comparing key performance metrics such as win percentage, offensive performance, and opponent strength. The findings are also compared to the broader SEC to determine if A&M's home-field advantage is among the best in the country.
+This project analyzes Texas A&M’s football performance at home vs. away since the 2015 Kyle Field renovation. The goal is to determine whether Kyle Field provides a significant home-field advantage by comparing key performance metrics to the rest of the SEC.
 
 ---
 
-## Installation
+## **Key Questions Answered:**  
+- Does Texas A&M perform better at home compared to away games?  
+- How does their home-field advantage compare to other SEC teams?  
+- What factors contribute most to their home success?
 
-To run the project on your local machine, follow these steps:
+--- 
+## Dataset
+- **Source:** [College Football Game Stats | 2002 to January 2025](https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024)  
+- **Description:** This dataset includes every game involving an NCAA FBS (Division I-A) football team from 2002 through January 2025. It contains game statistics such as:
+  - **Team Information:** Names of the competing teams as well as their rankings
+  - **Game Outcomes:** Scores, win/loss results  
+  - **Offensive Metrics:** Total yards, rushing yards, passing yards  
+  - **Defensive Metrics:** Yards allowed, turnovers  
+  - **Miscellaneous:** Penalties, time of possession, attendance figures, date and time
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/drewddudney/KyleField_HomeField.git
-    ```
-
-2. Install the required dependencies. You can do so by installing the packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 ---
 
-## Visualizations and Key Insights:
+## Analysis and Key Insights:
 
 1. **Home vs. Away Performance Bar Chart**:
    - Kyle Field shows a clear home-field advantage, with a significantly higher win percentage at home.
@@ -57,3 +59,25 @@ To run the project on your local machine, follow these steps:
 ## Conclusion:
 While Texas A&M's home-field advantage, when compared to the SEC average, appears relatively average, the stark contrast between their home and away performance suggests a notable home-field edge. The significant difference in their performance at Kyle Field versus on the road indicates that A&M does, in fact, enjoy a solid home-field advantage. However, the overall picture suggests that the team's struggles on the road and their underperformance post-Johnny Football highlight a broader issue: A&M, despite its home advantage, still falls short as a top-tier football program in recent years.
 ![Kyle Field Renovation](KyleField.jpg)
+
+--- 
+## **Technologies Used**  
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
+- **Jupyter Notebook** for data cleaning and analysis
+
+---
+
+## Installation
+
+To run the project on your local machine, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/drewddudney/KyleField_HomeField.git
+    ```
+
+2. Install the required dependencies. You can do so by installing the packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+---

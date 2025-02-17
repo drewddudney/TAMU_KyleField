@@ -1,12 +1,17 @@
 # Texas A&M Football Performance Analysis - *KyleField_HomeField*
 ### Kyle Field Renovations
 ![Kyle Field Torn Down](Images/KyleFieldTornDown.jpg)
-## Project Overview: Post-2014 Kyle Field Renovations - Texas A&M's Home-Field Advantage
+## Project Overview: Post-2015 Kyle Field Renovations - Texas A&M's Home-Field Advantage
 
-This project analyzes Texas A&M’s football performance at home vs. away since the 2015 Kyle Field renovation. The goal is to determine whether Kyle Field provides a significant home-field advantage by comparing key performance metrics to the rest of the SEC.
+This project analyzes Texas A&M’s football performance at home vs. away after the 2015 Kyle Field renovation. The goal is to determine whether Kyle Field provides a significant home-field advantage by comparing key performance metrics to the rest of the SEC.
 
 ---
 
+## **Technologies Used**  
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
+- **Jupyter Notebook** for data cleaning and analysis
+
+---
 ## **Key Questions Answered:**  
 - Does Texas A&M perform better at home compared to away games?  
 - How does their home-field advantage compare to other SEC teams?  
@@ -30,7 +35,7 @@ This project analyzes Texas A&M’s football performance at home vs. away since 
    - Kyle Field shows a clear home-field advantage, with a significantly higher win percentage at home.
    - Despite playing tougher opponents at home (with a higher percentage of ranked teams), A&M's performance at home stands out in comparison to their away games.
    - Time of possession is fairly consistent at home and away, suggesting it’s not the main factor in their home-field advantage.
-![Wins Bar Chart](Images/Wins2.png)
+![Wins Bar Chart](Images/Wins.png)
 
 2. **Offensive Performance Box Chart**:
    - A&M performs better offensively at home, particularly in rushing yards.
@@ -46,7 +51,7 @@ This project analyzes Texas A&M’s football performance at home vs. away since 
 
 5. **Winning Factors and Penalty Analysis**:
    - A&M’s home wins correlate more strongly with total yards and time of possession compared to SEC teams, emphasizing the importance of ball control at Kyle Field.
-   - On the road, turnovers (interceptions and fumbles) have a significantly more negative impact on A&M’s performance than at home.
+   - On the road, fumbles have a significantly more negative impact on A&M’s performance than at home.
    - Interestingly, A&M’s penalty yards on the road correlate positively with road wins, an unusual trend compared to the SEC.
 ![HeatMap](Images/HeatMap.png)
 6. **Radar Chart**:
@@ -61,11 +66,6 @@ While Texas A&M's home-field advantage, when compared to the SEC average, appear
 ![Kyle Field Renovation](Images/KyleField.jpg)
 
 --- 
-## **Technologies Used**  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
-- **Jupyter Notebook** for data cleaning and analysis
-
----
 
 ## Installation
 
